@@ -1,3 +1,6 @@
 [submodule "hello_world"]
 	path = hello_world
 	url = ./hello_world
+[submodule "exercism"]
+	path = exercism
+	url = git@github.com:aleemont1/exercism.git
